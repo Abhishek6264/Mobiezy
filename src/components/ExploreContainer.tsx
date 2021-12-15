@@ -161,7 +161,7 @@ const ExploreContainer: React.FC<ContainerProps> = () => {
                   <h5 className="heading">Insure your financial wellbeing from safety of your home</h5>
                 </IonItem>
               <IonCardContent>
-                <p>Another random text that reads the same as above ie blah blah blah</p>
+                <p>Another random text that reads the same as above blah blah</p>
                 
             </IonCardContent>
           </IonCard>
